@@ -1,2 +1,3 @@
-# -Vigenere-Cipher-gen
-a project...... .
+## in a file for passwording your text
+**enter your text with a key**
+- for install open relase
